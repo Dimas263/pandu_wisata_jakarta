@@ -3,7 +3,7 @@
 aplikasi memandu wisatawan
 
 ## Tampilan
-<image src="images/panduwisata.git" width="100">
+<img src="images/panduwisata.gif" alt="alt text" width="600"/>
 
 ## Tutorials
 update pubspec.yaml
