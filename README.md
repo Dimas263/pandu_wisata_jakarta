@@ -14,5 +14,7 @@ update icons dan nama aplikasi<br>
     flutter pub run flutter_launcher_icons:main<br>
     flutter pub run flutter_launcher_name:main<br>
 
-Ikuti petunjuk disetiap source code dengan tanda<br>
+flutter run -d chrome --no-sound-null-safety --web-renderer html
+
+<br>Ikuti petunjuk disetiap source code dengan tanda<br>
     //TODO:
