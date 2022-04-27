@@ -30,6 +30,7 @@ class _homePageState extends State<homePage> {
                     flex: 3,
                     child : Container(
                       foregroundDecoration: const BoxDecoration(
+                        // TODO: Mengatur Background
                         image: DecorationImage(
                             image: AssetImage('images/background.jpg'),
                             fit: BoxFit.cover),
