@@ -1,8 +1,8 @@
-# wisatajakarta
+# <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/undefined/external-traveler-vacation-planning-solo-trip-flaticons-flat-flat-icons-4.png"/> wisatajakarta
 
 aplikasi memandu wisatawan
 
-## Tampilan
+## <img src="https://img.icons8.com/color/48/undefined/flutter.png"/> Tampilan
 <img src="images/panduwisata.gif" alt="alt text" width="150"/>
 
 ## Tutorials
